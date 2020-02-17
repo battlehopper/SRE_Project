@@ -6,7 +6,7 @@ b. Documentação das APIs
 
 
 c. Documentação de arquitetura: 
-Arquivo: Graylog_and_Zabbix-Installation.docx
+Arquivo: "Graylog_and_Zabbix-Installation.docx"
 
 d. Documentação de como podemos subir uma cópia deste ambiente localmente
 
